@@ -13,7 +13,4 @@ Goal :
 ## 시연
 [Demo](https://hwisaac.github.io/react-chal4/)
 
-
-
-
-
+![Apr-22-2023 14-40-27](https://user-images.githubusercontent.com/54179672/233765181-80b54688-c09d-4d06-a05f-b658d030a30f.gif)
